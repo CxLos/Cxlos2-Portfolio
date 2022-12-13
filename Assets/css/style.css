@@ -170,6 +170,7 @@ main {
     width: 150px;
     background-color: rgb(223, 223, 203);
     font-family: sans-serif;
+    text-align: center;
 }
 
 #block2-container h2 {
@@ -269,6 +270,21 @@ main {
     text-align: center;
     font-size: 30px;
     color: black;
+}
+
+/* Projects section */
+
+.psection {
+    display: flex;
+    justify-content: space-between;
+}
+
+.project {
+    border: 5px solid;
+    border-radius: 5px;
+    background-color: aliceblue;
+    width: 30%;
+    text-align: center;
 }
 
 @media screen and (max-width: 980px) {
