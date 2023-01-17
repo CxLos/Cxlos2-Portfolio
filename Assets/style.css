@@ -123,7 +123,7 @@ main {
 }
 
 .bimg {
-    background-image: url("https://scontent-dfw5-2.xx.fbcdn.net/v/t1.6435-9/69027825_2914302568585057_4419819306645192704_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=730e14&_nc_ohc=o7XGPHIWd_EAX-ZS1Kf&_nc_ht=scontent-dfw5-2.xx&oh=00_AfCkEkIEMTPxJCVw-rZImrRD96RgbUfBTAPqBTrOJKrCFg&oe=638D04CB");
+    background-image: src=("./Assets/images/Screenshot-220636.png")
     background-size: cover;
     background-position: center;
     display: flex;
