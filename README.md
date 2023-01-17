@@ -9,9 +9,9 @@ This project was created to apply my advanced CSS skills including flexbox, medi
 
 To Use this webpage is simple. To see it's interactivity, adjust the screen size and see how the contents adjust/ move around.
 
-https://cxlos.github.io/Cxlos2-Portfolio/
+[Portfolio]https://cxlos.github.io/Cxlos2-Portfolio/
 
-![Module 2](./assets/images/carlos-portfolio.png)
+![Module 2](./Assets/images/carlos-portfolio.png)
 
 ## License
 
