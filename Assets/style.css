@@ -123,7 +123,7 @@ main {
 }
 
 .bimg {
-    background-image: src=("./Assets/images/Screenshot-220636.png")
+    background-image: src=("./Assets/images/Screenshot-220636.png");
     background-size: cover;
     background-position: center;
     display: flex;
